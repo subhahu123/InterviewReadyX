@@ -46,22 +46,23 @@ Let's soar together towards coding greatness! 🌠
 4. [Low Level Design](#low-level-design)
    - 4.1 [LLD Primer GitHub Repository](https://github.com/prasadgujar/low-level-design-primer)
    - 4.2 [Enjoy Algorithms (OOPS)](https://www.enjoyalgorithms.com/oops-course/)
+   - 4.3 [LLDcoding 55+ Solutions](https://lldcoding.com)
 
-5. [Problem Solving](#problem-solving)
+6. [Problem Solving](#problem-solving)
    - 5.1 [Grind 75 - Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
    - 5.2 [Leetcode Patterns](https://seanprashad.com/leetcode-patterns/)
    - 5.3 [Work@Tech - Problem Solving Practice](https://workat.tech/problem-solving/practice)
 
-6. [Dynamic Programming Basics](#dynamic-programming-basics)
+7. [Dynamic Programming Basics](#dynamic-programming-basics)
    - 6.1 [Dynamic Programming Basics - Video Tutorial](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
-7. [Leetcode Important Links](#leetcode-important-links)
+8. [Leetcode Important Links](#leetcode-important-links)
    - 7.1 [Important and Useful Links from LeetCode](https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode)
    - 7.2 [You Only Have To Be Right Once: Facebook Offer](https://leetcode.com/discuss/interview-question/1367198/You-Only-Have-To-Be-Right-Once%3A-Facebook-Offer)
    - 7.3 [Topics Which You Can't Skip Interview Preparation](https://leetcode.com/discuss/study-guide/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-INTERVIEW-PREPARATION-or-STUDY-PLAN-USING-LEETCODE)
    - 7.4 [Backtracking Cheatsheet](https://leetcode.com/problems/combination-sum/solutions/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)/)
 
-8. [Java Important Links](#java-important-links)
+9. [Java Important Links](#java-important-links)
    - 8.1 [Jenkov](https://jenkov.com/)
    - 8.2 [Baeldung](https://www.baeldung.com/java-tutorial)
 
